@@ -1,0 +1,285 @@
+[
+    
+    {  
+      "imageUrl": "https://supertails.com/cdn/shop/products/Frame1-2022-09-20T115518.248-454110.png?v=1696413095",
+      "brand": "Neo Pet",
+      "title": "Furry & Co Weatherproof Collar for Dogs (Lilac)",
+      "color": "Purple",
+      "discountedPrice": 935,
+      "price": 1100,
+      "discountPersent": 15,
+      "size": [
+          {
+            "name": "1",
+            "quantity": 5
+          },
+          {
+            "name": "3",
+            "quantity": 3
+          },
+          {
+            "name": "6",
+            "quantity": 4
+          }
+        ],
+        "quantity": 12,
+        "topLavelCategory": "Dogs",
+        "secondLavelCategory": "Accessories",
+        "thirdLavelCategory": "collars",
+        "description":"Easy to use. Simple to clean. Made with a super strong flex-poly strap, the all-weather Collar is comfortable and functional. It’s also dirt and odor-resistant"
+  },
+  {
+    "imageUrl": "https://supertails.com/cdn/shop/products/Frame2_49aec244-b7b2-48d5-97da-f9507d474184.png?v=1696620198",
+    "brand": "Trixie",
+    "title": "Trixie Extra Wide Premium Collar for Dogs (Red)",
+    "color": "Red",
+    "discountedPrice": 1069,
+    "price": 1425,
+    "discountPersent": 25,
+    "size": [
+        {
+          "name": "1",
+          "quantity": 10
+        },
+        {
+          "name": "3",
+          "quantity": 5
+        },
+        {
+          "name": "6",
+          "quantity": 4
+        }
+      ],
+      "quantity": 19,
+      "topLavelCategory": "Dogs",
+      "secondLavelCategory": "Accessories",
+      "thirdLavelCategory": "collars",
+      "description":"Trixie Extra Wide Premium Collars for Pets are dog collars with a wide range of versions and various additional functions."
+  },
+  {
+    "imageUrl": "https://headsupfortails.com/cdn/shop/files/DSC_3000.jpg?v=1689859795&width=823",
+    "brand": "HUFT",
+    "title": "HUFT Personalised Fresh Blooms Fabric Collar For Dogs With Free Bow Tie",
+    "color": "Pink",
+    "discountedPrice": 699,
+    "price": 699,
+    "discountPersent": 0,
+    "size": [
+        {
+          "name": "1",
+          "quantity": 10
+        },
+        {
+          "name": "3",
+          "quantity": 5
+        },
+        {
+          "name": "6",
+          "quantity": 4
+        }
+      ],
+      "quantity": 19,
+      "topLavelCategory": "Dogs",
+      "secondLavelCategory": "Accessories",
+      "thirdLavelCategory": "collars",
+      "description":"Our HUFT Personalised Fresh Blooms fabric collar captures the essence of this beautiful season, ensuring that your dog carries the spirit of spring wherever they go."
+  },
+  
+  {
+    "imageUrl": "https://images-cdn.ubuy.co.in/634fc44fc2a13f17d3683e82-beirui-soft-velvet-girl-dog-collars-with.jpg",
+    "brand": "Beirui",
+    "title": "Beirui Soft Velvet Girl Dog Collars with Removable Flower Accessories - Personalized Cute Dog Collar with Custom Name Plate Engraved - Adorable Collar for Small Medium Large Dogs",
+    "color": "Pink",
+    "discountedPrice": 2003,
+    "price": 2003,
+    "discountPersent": 0,
+    "size": [
+        {
+          "name": "1",
+          "quantity": 10
+        },
+        {
+          "name": "3",
+          "quantity": 10
+        },
+        {
+          "name": "6",
+          "quantity": 4
+        }
+      ],
+      "quantity": 24,
+      "topLavelCategory": "Dogs",
+      "secondLavelCategory": "Accessories",
+      "thirdLavelCategory": "collars",
+      "description":"Super Soft Dog Collar - Girl dog collar is made of high-quality velvet material for both outer and inner lining, comfortable and wear-resisting for pet's neck which will effectively relieves dog's impact tension."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/31UwFyHalqL._SX300_SY300_QL70_FMwebp_.jpg",
+    "brand": "BarkButler",
+    "title": "BarkButler x Fofos Ice Cream Soft Squeaky Plush Dog & Puppy Toy - 1 Pc, Assorted Colours | X-Small-Small Dogs(0-10kgs) | for All Dog Breeds",
+    "color": "Pink",
+    "discountedPrice": 297,
+    "price": 299,
+    "discountPersent": 35,
+    "size": [
+        {
+          "name": "1",
+          "quantity": 5
+        },
+        {
+          "name": "3",
+          "quantity": 1
+        },
+        {
+          "name": "6",
+          "quantity": 1
+        }
+      ],
+      "quantity": 7,
+      "topLavelCategory": "Dogs",
+      "secondLavelCategory": "Accessories",
+      "thirdLavelCategory": "collars",
+      "description":"Allows for tighter control of your dog’s movement when waiting for traffic, in a crowded space, or to secure your dog through anxious situations or for a normal walk."
+  },
+  {
+    "imageUrl": "https://supertails.com/cdn/shop/products/SeaGreen_SeaGreen_Yellow-L_Packof3-620140.png?v=1696441017",
+    "brand": "KIBBO",
+    "title": "Kibbo Premium Nylon Collar with Buckle and D Ring For Dogs (Sea Green, Yellow/Pack of 3)",
+    "color": "Sea Green/Yellow",
+    "discountedPrice": 349,
+    "price": 599,
+    "discountPersent": 42,
+    "size": [
+        {
+          "name": "1",
+          "quantity": 5
+        },
+        {
+          "name": "3",
+          "quantity": 5
+        },
+        {
+          "name": "6",
+          "quantity": 10
+        }
+      ],
+      "quantity": 20,
+      "topLavelCategory": "Dogs",
+      "secondLavelCategory": "Accessories",
+      "thirdLavelCategory": "collars",
+      "description":"Made with high-quality & dual layered reflective nylon material, this collar is designed to keep your furry friend visible and safe during nighttime walks or low-light conditions."
+  },
+  {
+    "imageUrl": "https://supertails.com/cdn/shop/products/Frame1-2022-09-20T121935.346_93d4e94c-b839-4724-9ab0-a89f30aef816-588503.png?v=1696411548",
+    "brand": "Furry",
+    "title": "Furry & Co Weatherproof Collar for Dogs (Indigo Blue)",
+    "color": "Blue",
+    "discountedPrice": 935,
+    "price": 1100,
+    "discountPersent": 15,
+    "size": [
+        {
+          "name": "1",
+          "quantity": 5
+        },
+        {
+          "name": "3",
+          "quantity": 5
+        },
+        {
+          "name": "6",
+          "quantity": 5
+        }
+      ],
+      "quantity": 15,
+      "topLavelCategory": "Dogs",
+      "secondLavelCategory": "Accessories",
+      "thirdLavelCategory": "collars",
+      "description":"Easy to use. Simple to clean. Made with a super strong flex-poly strap, the all-weather Collar is comfortable and functional. It’s also dirt and odor-resistant."
+  },
+  {
+    "imageUrl": "https://supertails.com/cdn/shop/products/supertails_47_1_40794e94-8d79-4982-a0f9-6f9582219fa6-501697.png?v=1696530720",
+    "brand": "Harry",
+    "title": "Harry Potter Every Flavour Bean Martingale Collar for Dogs",
+    "color": "Blue",
+    "discountedPrice": 552,
+    "price": 849,
+    "discountPersent": 35,
+    "size": [
+        {
+          "name": "1",
+          "quantity": 1
+        },
+        {
+          "name": "3",
+          "quantity": 3
+        },
+        {
+          "name": "6",
+          "quantity": 4
+        }
+      ],
+      "quantity": 8,
+      "topLavelCategory": "Dogs",
+      "secondLavelCategory": "Accessories",
+      "thirdLavelCategory": "collars",
+      "description":"Anything from the trolly, dears? No surprises here! We’ve already spilled the beans about this Official Harry Potter collection for pets. Let the pets explore every spot until they say bean there done that."
+  },
+  {
+    "imageUrl": "https://supertails.com/cdn/shop/products/Frame1_19_1-617862.png?v=1696417255",
+    "brand": "APLUS",
+    "title": "A Plus A Pets Skin Friendly Gradient Design Collar for Dogs (Green)",
+    "color": "Green",
+    "discountedPrice": 539,
+    "price": 749,
+    "discountPersent": 28,
+    "size": [
+        {
+          "name": "1",
+          "quantity": 2
+        },
+        {
+          "name": "3",
+          "quantity": 2
+        },
+        {
+          "name": "6",
+          "quantity": 3
+        }
+      ],
+      "quantity": 7,
+      "topLavelCategory": "Dogs",
+      "secondLavelCategory": "Accessories",
+      "thirdLavelCategory": "collars",
+      "description":"A Premium product from the House of A+A Pets. The collar is soft, skin friendly, and stylish, ideal for regular use, ensuring your pets' safety and comfort at the same time."
+  },
+  {  
+    "imageUrl": "https://supertails.com/cdn/shop/files/Frame106722735_9b726f98-3444-4747-8cf7-76cc1c0fb6a7.png?v=1703067610",
+    "brand": "TOPDOG",
+    "title": "TopDog Premium Leaves Printed Nylon Collar for Dogs (Pink)",
+    "color": "Green",
+    "discountedPrice": 629,
+    "price": 699,
+    "discountPersent": 10,
+    "size": [
+        {
+          "name": "1",
+          "quantity": 5
+        },
+        {
+          "name": "3",
+          "quantity": 2
+        },
+        {
+          "name": "6",
+          "quantity": 3
+        }
+      ],
+      "quantity": 10,
+      "topLavelCategory": "Dogs",
+      "secondLavelCategory": "Accessories",
+      "thirdLavelCategory": "collars",
+      "description":"TOPDOG PREMIUM Printed Collars are made of premium quality high density nylon webbing which is very strong as well as attractive."
+  }
+
+]

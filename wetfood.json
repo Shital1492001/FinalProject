@@ -1,0 +1,285 @@
+[
+    
+    {  
+      "imageUrl": "https://supertails.com/cdn/shop/files/1FOP.jpg?v=1707138177",
+      "brand": "Pedigree",
+      "title": "Pedigree Chicken and Liver Chunks in Gravy Adult Dog Wet Food (70g)",
+      "color": " ",
+      "discountedPrice": 4400 ,
+      "price": 6000,
+      "discountPersent": 26,
+      "size": [
+          {
+            "name": "1",
+            "quantity": 5
+          },
+          {
+            "name": "3",
+            "quantity": 3
+          },
+          {
+            "name": "6",
+            "quantity": 4
+          }
+        ],
+        "quantity": 12,
+        "topLavelCategory": "Dogs",
+        "secondLavelCategory": "dog_food",
+        "thirdLavelCategory": "wet_food",
+        "description":" Pedigree Adult Wet Dog Food, Chicken and Liver Chunks in Gravy is a wholesome meal that promotes your dog’s overall health."
+  },
+  {
+    "imageUrl": "https://supertails.com/cdn/shop/products/2ndImage-603622.png?v=1704795065",
+    "brand": "Drools",
+    "title": "Drools Real Chicken & Chicken Liver Chunks in Gravy Adult Dog Wet Food",
+    "color": " ",
+    "discountedPrice": 2168 ,
+    "price":2520,
+    "discountPersent": 14,
+    "size": [
+        {
+          "name": "1",
+          "quantity": 10
+        },
+        {
+          "name": "3",
+          "quantity": 7
+        },
+        {
+          "name": "6",
+          "quantity": 4
+        }
+      ],
+      "quantity": 21,
+      "topLavelCategory": "Dogs",
+      "secondLavelCategory": "dog_food",
+      "thirdLavelCategory": "wet_food",
+      "description":"Drools Real Chicken and Liver in Gravy Adult Dog Wet Food is a flavorful and nutritious dog food that aims to provide a well-rounded diet for your canine companion."
+  },
+  {
+    "imageUrl": "https://supertails.com/cdn/shop/files/Frame776.png?v=1706685946",
+    "brand": "Royal Canin",
+    "title": "Royal Canin Maxi Adult Dog Wet Food",
+    "color": " ",
+    "discountedPrice": 3830 ,
+    "price":4500,
+    "discountPersent": 15,
+    "size": [
+        {
+          "name": "1",
+          "quantity": 8
+        },
+        {
+          "name": "3",
+          "quantity": 10
+        },
+        {
+          "name": "6",
+          "quantity": 4
+        }
+      ],
+      "quantity": 22,
+      "topLavelCategory": "Dogs",
+      "secondLavelCategory": "dog_food",
+      "thirdLavelCategory": "wet_food",
+      "description":"The nutritional requirements of a larger breed dog versus a smaller breed dog vary greatly, therefore it is essential you feed a balanced diet according to size and other particular sensitivities."
+  },
+  {
+    "imageUrl": "https://supertails.com/cdn/shop/files/Frame211.png?v=1698389797",
+    "brand": "Kennel",
+    "title": "Kennel Kitchen Lamb Chunks in Gravy Puppy & Adult Wet Dog Food",
+    "color": " ",
+    "discountedPrice": 563,
+    "price":750,
+    "discountPersent": 15,
+    "size": [
+        {
+          "name": "1",
+          "quantity": 5
+        },
+        {
+          "name": "3",
+          "quantity": 9
+        },
+        {
+          "name": "6",
+          "quantity": 5
+        }
+      ],
+      "quantity": 19,
+      "topLavelCategory": "Dogs",
+      "secondLavelCategory": "dog_food",
+      "thirdLavelCategory": "wet_food",
+      "description":"Royal Canin German Shepherd  is tailor made to suit the unique nutritional needs of your German Shepherd."
+  },
+   {
+    "imageUrl": "https://supertails.com/cdn/shop/files/Frame179.png?v=1698381793",
+    "brand": "JerHigh",
+    "title": "JerHigh Roasted Duck in Gravy Wet Dog Food",
+    "color": " ",
+    "discountedPrice": 2856,
+    "price":3360,
+    "discountPersent": 15,
+    "size": [
+        {
+          "name": "1",
+          "quantity": 25
+        },
+        {
+          "name": "3",
+          "quantity": 12
+        },
+        {
+          "name": "6",
+          "quantity": 8
+        }
+      ],
+      "quantity": 45,
+      "topLavelCategory": "Dogs",
+      "secondLavelCategory": "dog_food",
+      "thirdLavelCategory": "wet_food",
+      "description":"JerHigh Roasted Duck in Gravy For Dogs is a premium dog food suitable for all breeds and coat types."
+  },
+  {
+    "imageUrl": "https://supertails.com/cdn/shop/files/Frame114.png?v=1698314960",
+    "brand": "Kennel",
+    "title": "BLEP Chicken & Pumpkin Pawer Dog Wet Food",
+    "color": " ",
+    "discountedPrice": 4249,
+    "price":6069,
+    "discountPersent": 30,
+    "size": [
+        {
+          "name": "1",
+          "quantity": 10
+        },
+        {
+          "name": "3",
+          "quantity": 8
+        },
+        {
+          "name": "6",
+          "quantity": 7
+        }
+      ],
+      "quantity": 25,
+      "topLavelCategory": "Dogs",
+      "secondLavelCategory": "dog_food",
+      "thirdLavelCategory": "wet_food",
+      "description":"Introducing BLEP's Chicken Pumpkin Pawer Fresh Dog Food! This premium dog food is the perfect choice for pet owners who want the best for their dogs."
+  },
+  {
+    "imageUrl": "https://supertails.com/cdn/shop/files/Frame276.png?v=1698412184",
+    "brand": "Fresh",
+    "title": "Fresh For Paws Chicken Pot Pie Wet Food for Cats and Dogs",
+    "color": " ",
+    "discountedPrice": 7106,
+    "price":8361,
+    "discountPersent": 15,
+    "size": [
+        {
+          "name": "1",
+          "quantity": 15
+        },
+        {
+          "name": "3",
+          "quantity": 8
+        },
+        {
+          "name": "6",
+          "quantity": 7
+        }
+      ],
+      "quantity": 30,
+      "topLavelCategory": "Dogs",
+      "secondLavelCategory": "dog_food",
+      "thirdLavelCategory": "wet_food",
+      "description":"Full of FRESH CHICKEN, this GRAIN- FREE recipe is a COMPLETE & BALANCED meal. Along with Fresh Chicken, it has Chicken Liver, Chickpeas, Sweet Potato, Carrots, Broccoli, Kale, Beetroot, Pear, Basil, Curcumin, Flaxseeds and Stock all made in Olive Oil.."
+  },
+  {
+    "imageUrl": "https://supertails.com/cdn/shop/files/Frame180.png?v=1698385197",
+    "brand": "JerHigh",
+    "title": "JerHigh Vegetable and Chicken in Gravy Dog Wet Food",
+    "color": " ",
+    "discountedPrice": 2959 ,
+    "price":3360,
+    "discountPersent": 12,
+    "size": [
+        {
+          "name": "1",
+          "quantity": 15
+        },
+        {
+          "name": "3",
+          "quantity": 4
+        },
+        {
+          "name": "6",
+          "quantity": 6
+        }
+      ],
+      "quantity": 25,
+      "topLavelCategory": "Dogs",
+      "secondLavelCategory": "dog_food",
+      "thirdLavelCategory": "wet_food",
+      "description":"JerHigh Chicken and Vegetable in Gravy is a premium dog food suitable for all dog breeds and chock full of nutritional value from vitamin E to promote silky fur and skin."
+  },
+  {
+    "imageUrl": "https://supertails.com/cdn/shop/products/Frame1-2022-06-03T161139.625-270743.png?v=1696494176",
+    "brand": "Drools",
+    "title": "Drools Gourmet Bites Sanjeev Kapoor Recipe Very Veggie Chicken Adult Dog Wet Food",
+    "color": " ",
+    "discountedPrice": 893,
+    "price":1050,
+    "discountPersent": 15,
+    "size": [
+        {
+          "name": "1",
+          "quantity": 17
+        },
+        {
+          "name": "3",
+          "quantity": 9
+        },
+        {
+          "name": "6",
+          "quantity": 7
+        }
+      ],
+      "quantity": 33,
+      "topLavelCategory": "Dogs",
+      "secondLavelCategory": "dog_food",
+      "thirdLavelCategory": "wet_food",
+      "description":"You will love that your dog relishes every chunk of the Drools Gourmet Bites Adult Gravy thoughtfully crafted by Sanjeev Kapoor."
+  },
+  {
+    "imageUrl": "https://supertails.com/cdn/shop/files/Frame368.png?v=1698472423",
+    "brand": "SmartHeart",
+    "title": "SmartHeart Chicken Chunk with Carrot & Egg In Gravy Wet Food",
+    "color": " ",
+    "discountedPrice": 1728,
+    "price":1920,
+    "discountPersent": 17,
+    "size": [
+        {
+          "name": "1",
+          "quantity": 18
+        },
+        {
+          "name": "3",
+          "quantity": 14
+        },
+        {
+          "name": "6",
+          "quantity": 5
+        }
+      ],
+      "quantity": 37,
+      "topLavelCategory": "Dogs",
+      "secondLavelCategory": "dog_food",
+      "thirdLavelCategory": "wet_food",
+      "description":"SmartHeart Chicken Chunk with Carrot & Egg flavor wet dog food is tailored to meet all the nutritional requirements of your dog."
+  }
+  
+
+]

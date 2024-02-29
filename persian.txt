@@ -1,0 +1,67 @@
+[
+    {
+        "imageUrl": "https://images.unsplash.com/photo-1585137173132-cf49e10ad27d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cGVyc2lhbiUyMGNhdHxlbnwwfHwwfHx8MA%3D%3D",
+        "brand": "Persian",
+        "title": "Persian Longhair cat",
+        "color": "White",
+        "discountedPrice":36000,
+        "price": 40000,
+        "discountPersent": 8,
+        "size": [
+            {
+              "name": "Age 1 Month",
+              "quantity": 20
+            }
+          ],
+          "quantity": 100,
+          "topLavelCategory": "men",
+          "secondLavelCategory": "Clothing",
+          "thirdLavelCategory": "top",
+          "description":"The Persian cat, also known as the Persian Longhair, is a long-haired breed of cat characterised by a round face and short muzzle."
+    },
+
+   {
+        "imageUrl": "https://images.unsplash.com/photo-1591429939960-b7d5add10b5c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGVyc2lhbiUyMGNhdHxlbnwwfHwwfHx8MA%3D%3D",
+        "brand": "Persian",
+        "title": "Persian White cat",
+        "color": "White",
+        "discountedPrice":22000,
+        "price": 25000,
+        "discountPersent": 8,
+        "size": [
+            {
+              "name": "Age 1 Month",
+              "quantity": 20
+            }
+          ],
+          "quantity": 8,
+          "topLavelCategory": "cat",
+          "secondLavelCategory": "breed",
+          "thirdLavelCategory": "persian",
+          "description":"The Persian cat, also known as the Persian Longhair, is a long-haired breed of cat characterised by a round face and short muzzle."
+    },
+
+    {
+        "imageUrl": "https://images.unsplash.com/photo-1622584985171-35cd07f0253e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8cGVyc2lhbiUyMGNhdHxlbnwwfHwwfHx8MA%3D%3D",
+        "brand": "Persian",
+        "title": "Persian Longhair cat",
+        "color": "White",
+        "discountedPrice":26000,
+        "price": 30000,
+        "discountPersent": 8,
+        "size": [
+            {
+              "name": "Age 1 Month",
+              "quantity": 20
+            }
+          ],
+          "quantity": 100,
+          "topLavelCategory": "cats",
+          "secondLavelCategory": "breeds",
+          "thirdLavelCategory": "persian",
+          "description":"The Persian cat, also known as the Persian Longhair, is a long-haired breed of cat characterised by a round face and short muzzle."
+    }
+
+
+
+]

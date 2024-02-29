@@ -1,0 +1,177 @@
+ [
+        {
+            "imageUrl": "https://headsupfortails.com/cdn/shop/files/WhiskasChickenWithTunaAndCarrotinGravyTastyMixAdultCatWetFood2.jpg?v=1693216565",
+            "brand": "Whiskas",
+            "title": "Whiskas Adult (1+ year) Tasty Mix Wet Cat Food Made With Real Fish, Chicken With Tuna And Carrot in Gravy - 70 g packs",
+            "color": " ",
+            "discountedPrice":528,
+            "price": 600,
+            "discountPersent": 12,
+            "size": [
+                {
+             
+                }
+            ],
+            "quantity": 100,
+            "topLavelCategory": "cats",
+            "secondLavelCategory": "accessories",
+            "thirdLavelCategory": "wet",
+            "description":"Whiskas Pouch Tasty Mix: a new, balanced, and flavorful cat food. Made with real fish, chicken, and nutritious veggies in a tasty gravy sauce. Contains 41 essential nutrients for health and energy. "
+        },
+ {
+            "imageUrl": "https://headsupfortails.com/cdn/shop/files/8005852750129_01.jpg?v=1693310099",
+            "brand": "Schesir",
+            "title": "Schesir 51% Chicken Fillets Wet Cat Food - 85 g(Best Before 29th March'24)",
+            "color": " ",
+            "discountedPrice":169,
+            "price": 109,
+            "discountPersent": 35,
+            "size": [
+                {
+             
+                }
+            ],
+            "quantity": 100,
+            "topLavelCategory": "cats",
+            "secondLavelCategory": "accessories",
+            "thirdLavelCategory": "wet",
+            "description":"Schesir recipe based on real delicious chicken fillets. The preparation is in jelly, to satisfy the taste of cats who prefer a natural flavor, but with amore compact consistency in the bowl."
+        },
+ {
+            "imageUrl": "https://headsupfortails.com/cdn/shop/files/ShebaRichPremiumTunaPumpkin_CarrotInGravyAdultWetCatFood-70gPacks.jpg?v=1683106572",
+            "brand": "Sheba",
+            "title": "Sheba Rich Premium Tuna Pumpkin & Carrot In Gravy Adult Wet Cat Food - 70 g Packs",
+            "color": " ",
+            "discountedPrice":75,
+            "price": 75,
+            "discountPersent": 0,
+            "size": [
+                {
+             
+                }
+            ],
+            "quantity": 100,
+            "topLavelCategory": "cats",
+            "secondLavelCategory": "accessories",
+            "thirdLavelCategory": "wet",
+            "description":"We know that cats are picky eaters and they eat only what they want, so pamper your cat with Sheba's range of delicious premium fine cat food, containing the goodness of fish and vegetables that your cat will love."
+        },
+{
+            "imageUrl": "https://headsupfortails.com/cdn/shop/products/InstinctiveGravy-1.webp?v=1674650241",
+            "brand": "Royal Canin ",
+            "title": "Royal Canin Instinctive Wet Cat Food - 85 g packs",
+            "color": " ",
+            "discountedPrice":93,
+            "price": 110,
+            "discountPersent": 15,
+            "size": [
+                {
+             
+                }
+            ],
+            "quantity": 100,
+            "topLavelCategory": "cats",
+            "secondLavelCategory": "accessories",
+            "thirdLavelCategory": "wet",
+            "description":"When feeding your cat, it is possible to align what it actually wants to eat with what it needs to eat in order to maintain nutritional health. Choosing the right food for your cat is essential in supporting a healthy lifestyle"
+        },
+
+        {
+            "imageUrl": "https://headsupfortails.com/cdn/shop/products/Applaws75_ChickenBreastwithPumpkininBrothNaturalWetCatFood-70g.jpg?v=1684316003",
+            "brand": "Applaws",
+            "title": "Applaws 75% Chicken Breast with Pumpkin in Broth Natural Wet Cat Food - 70 g",
+            "color": " ",
+            "discountedPrice":175,
+            "price": 175,
+            "discountPersent": 0,
+            "size": [
+                {
+             
+                }
+            ],
+            "quantity": 100,
+            "topLavelCategory": "cats",
+            "secondLavelCategory": "accessories",
+            "thirdLavelCategory": "wet",
+            "description":"Applaws Chicken with Pumpkin in Broth wet cat food is packed with pumpkin, which is a great source of natural fibre, mixed with hand-shredded Chicken Breast."
+        },
+{
+            "imageUrl": "https://headsupfortails.com/cdn/shop/files/WhiskasTunainJellyAdultWetCatFood-85gmpacks.jpg?v=1683109340",
+            "brand": "Royal Canin ",
+            "title": "Royal Canin Instinctive Wet Kitten Food - 85 g packs",
+            "color": " ",
+            "discountedPrice":115,
+            "price": 97,
+            "discountPersent": 15,
+            "size": [
+                {
+             
+                }
+            ],
+            "quantity": 100,
+            "topLavelCategory": "cats",
+            "secondLavelCategory": "accessories",
+            "thirdLavelCategory": "wet",
+            "description":"When feeding your cat, it is possible to align what it actually wants to eat with what it needs to eat in order to maintain nutritional health."
+        },
+ {
+            "imageUrl": "https://headsupfortails.com/cdn/shop/products/KK-WebsiteThumbs-FishChunksinGravy-Front_2200x_dccc5635-ccbb-4649-be2d-0e02c4851355.jpg?v=1652697502",
+            "brand": "Kennel Kitchen",
+            "title": "Kennel Kitchen Fish Chunks In Gravy Wet Cat Food - 80 g packs",
+            "color": " ",
+            "discountedPrice":50,
+            "price": 50,
+            "discountPersent": 0,
+            "size": [
+                {
+             
+                }
+            ],
+            "quantity": 100,
+            "topLavelCategory": "cats",
+            "secondLavelCategory": "accessories",
+            "thirdLavelCategory": "wet",
+            "description":"Kennel Kitchen Fish Chunks in Gravy is made with fresh tuna, mackerel, chicken and our signature fish broth. Our recipe is made with a combination of tuna."
+        },
+    {
+            "imageUrl": "https://headsupfortails.com/cdn/shop/products/LittleBigPawTurkeyMousse_GourmetTender_WetCatFood-85g.jpg?v=1645168147",
+            "brand": "Little BigPaw",
+            "title": "Little BigPaw Turkey Mousse (Gourmet Tender) Wet Cat Food - 85 g",
+            "color": " ",
+            "discountedPrice":160,
+            "price": 160,
+            "discountPersent": 0,
+            "size": [
+                {
+             
+                }
+            ],
+            "quantity": 100,
+            "topLavelCategory": "cats",
+            "secondLavelCategory": "accessories",
+            "thirdLavelCategory": "wet",
+            "description":"Featuring fresh turkey, this meal is rich in easy-to-digest lean meat. Vitamins A, D and E contribute to a healthy immune system, bones and teeth. To help your pet's coat, it contains essential fatty acids and omega oils. "
+        },
+  {
+            "imageUrl": "https://headsupfortails.com/cdn/shop/files/ShebaFishwithSasamiAdultWetCatFood-35gpacks.jpg?v=1708496766",
+            "brand": "Sheba",
+            "title": "Sheba Fish with Sasami Adult Wet Cat Food - 35 g packs",
+            "color": " ",
+            "discountedPrice":50,
+            "price": 50,
+            "discountPersent": 0,
+            "size": [
+                {
+             
+                }
+            ],
+            "quantity": 100,
+            "topLavelCategory": "cats",
+            "secondLavelCategory": "accessories",
+            "thirdLavelCategory": "wet",
+            "description":"Nothing says love like Sheba's range of premium Cat Food, containing a special fish mix that your cat will love and adore."
+        }
+
+
+
+]

@@ -1,0 +1,90 @@
+[
+  {
+  "imageUrl": "https://images.unsplash.com/photo-1559914392-48b4bc800d0a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHJhZ2RvbGwlMjBjYXR8ZW58MHx8MHx8fDA%3D",
+  "brand": "Ragdoll",
+  "title": "Ragdoll Cat",
+  "color": "Gray",
+  "discountedPrice":28000,
+  "price": 35000,
+  "discountPersent": 20,
+  "size": [
+      {
+        "name": "Age 1 Month",
+        "quantity": 20
+      }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "cats",
+    "secondLavelCategory": "breeds",
+    "thirdLavelCategory": "ragdoll",
+    "description":"The Ragdoll is a breed of cat with a distinct colorpoint coat and blue eyes. Its morphology is large and weighty, and it has a semi-long and silky soft coat."
+},
+{
+  "imageUrl": "https://images.unsplash.com/photo-1588516920619-13720333d65d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fHJhZ2RvbGwlMjBjYXR8ZW58MHx8MHx8fDA%3D",
+  "brand": "Ragdoll",
+  "title": "Brown and white long fur Cat",
+  "color": "Brown and white",
+  "discountedPrice":22000,
+  "price": 35000,
+  "discountPersent": 25,
+  "size": [
+      {
+        "name": "1 ",
+        "quantity": 20
+      }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "cats",
+    "secondLavelCategory": "breeds",
+    "thirdLavelCategory": "ragdoll",
+    "description":"The Ragdoll is a breed of cat with a distinct colorpoint coat and blue eyes. Its morphology is large and weighty, and it has a semi-long and silky soft coat."
+},
+{
+  "imageUrl": "https://images.unsplash.com/photo-1627981643499-07422174a28f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHJhZ2RvbGwlMjBjYXR8ZW58MHx8MHx8fDA%3D",
+  "brand": "Ragdoll",
+  "title": "Black and white long fur Cat",
+  "color": "Brown and white",
+  "discountedPrice":26000,
+  "price": 30000,
+  "discountPersent": 22,
+  "size": [
+      {
+        "name": "1 ",
+        "quantity": 20
+      }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "cats",
+    "secondLavelCategory": "breeds",
+    "thirdLavelCategory": "ragdoll",
+    "description":"The Ragdoll is a breed of cat with a distinct colorpoint coat and blue eyes. Its morphology is large and weighty, and it has a semi-long and silky soft coat."
+},
+
+  {
+    "imageUrl": "https://images.unsplash.com/photo-1564000689425-2f3898b441ad?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjJ8fHJhZ2RvbGwlMjBjYXR8ZW58MHx8MHx8fDA%3D",
+    "brand": "Ragdoll",
+    "title": "Orange and white long fur Cat",
+    "color": "Brown",
+    "discountedPrice":36000,
+    "price": 40000,
+    "discountPersent": 20,
+    "size": [
+        {
+          "name": "1 ",
+          "quantity": 20
+        }
+      ],
+      "quantity": 100,
+      "topLavelCategory": "cats",
+      "secondLavelCategory": "breeds",
+      "thirdLavelCategory": "ragdoll",
+      "description":"The Ragdoll is a breed of cat with a distinct colorpoint coat and blue eyes. Its morphology is large and weighty, and it has a semi-long and silky soft coat."
+  }
+
+]
+
+
+
+
+
+

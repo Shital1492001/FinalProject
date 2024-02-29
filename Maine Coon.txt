@@ -1,0 +1,63 @@
+[
+    {
+        "imageUrl": "https://images.unsplash.com/photo-1617696448256-e92b5761bea3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fE1haW5lJTIwQ29vbnxlbnwwfHwwfHx8MA%3D%3D",
+        "brand": "Maine Coon",
+        "title": "Maine Coon Cat",
+        "color": "dark gray",
+        "discountedPrice":29000,
+        "price": 30000,
+        "discountPersent": 2,
+        "size": [
+            {
+              "name": "Age 1 Month",
+              "quantity": 20
+            }
+          ],
+          "quantity": 100,
+          "topLavelCategory": "cats",
+          "secondLavelCategory": "breeds",
+          "thirdLavelCategory": "maine_coon",
+          "description":"The Maine Coon is a large domesticated cat breed. It is one of the oldest natural breeds in North America. "
+    },
+    {
+        "imageUrl": "https://images.unsplash.com/photo-1573865526739-10659fec78a5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8TWFpbmUlMjBDb29ufGVufDB8fDB8fHww",
+        "brand": "Maine Coon",
+        "title": "Maine Coon Cat",
+        "color": "Orange",
+        "discountedPrice":38000,
+        "price": 40000,
+        "discountPersent": 8,
+        "size": [
+            {
+              "name": "Age 1 Month",
+              "quantity": 20
+            }
+          ],
+          "quantity": 100,
+          "topLavelCategory": "cats",
+          "secondLavelCategory": "breeds",
+          "thirdLavelCategory": "maine_coon",
+          "description":"The Maine Coon is a large domesticated cat breed. It is one of the oldest natural breeds in North America. "
+    }, 
+{
+        "imageUrl": "https://images.unsplash.com/photo-1612779068627-1451ffa38c81?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fE1haW5lJTIwQ29vbnxlbnwwfHwwfHx8MA%3D%3D",
+        "brand": "Maine Coon",
+        "title": "Maine Coon Cat",
+        "color": "Gray",
+        "discountedPrice":28000,
+        "price": 35000,
+        "discountPersent": 20,
+        "size": [
+            {
+              "name": "Age 1 Month",
+              "quantity": 20
+            }
+          ],
+          "quantity": 100,
+          "topLavelCategory": "cats",
+          "secondLavelCategory": "breeds",
+          "thirdLavelCategory": "maine_coon",
+          "description":"The Maine Coon is a large domesticated cat breed. It is one of the oldest natural breeds in North America. "
+    }
+
+]

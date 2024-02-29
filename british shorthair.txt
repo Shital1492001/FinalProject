@@ -1,0 +1,86 @@
+ [
+    {
+        "imageUrl": "https://images.unsplash.com/photo-1629624466945-3999c586a130?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fEJyaXRpc2glMjBTaG9ydGhhaXJ8ZW58MHx8MHx8fDA%3D",
+        "brand": "British Shorthair",
+        "title": "British Shorthair Cat",
+        "color": "Gray",
+        "discountedPrice":20000,
+        "price": 25000,
+        "discountPersent": 15,
+        "size": [
+            {
+              "name": "Age 1 Month",
+              "quantity": 20
+            }
+          ],
+          "quantity": 100,
+          "topLavelCategory": "cats",
+          "secondLavelCategory": "breeds",
+          "thirdLavelCategory": "shorthair",
+          "description":"The Siamese cat is one of the first distinctly recognised breeds of Asian cat."
+    },
+ {
+        "imageUrl": "https://images.unsplash.com/photo-1575964479874-9711db881a4e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fEJyaXRpc2glMjBTaG9ydGhhaXJ8ZW58MHx8MHx8fDA%3D",
+        "brand": "British Shorthair",
+        "title": "Small Shorthair Cat",
+        "color": "oeange",
+        "discountedPrice":23000,
+        "price": 25000,
+        "discountPersent": 9,
+        "size": [
+            {
+              "name": "Age 1 Month",
+              "quantity": 20
+            }
+          ],
+          "quantity": 100,
+          "topLavelCategory": "cats",
+          "secondLavelCategory": "breeds",
+          "thirdLavelCategory": "shorthair",
+          "description":"The Siamese cat is one of the first distinctly recognised breeds of Asian cat."
+    },
+{
+        "imageUrl": "https://images.unsplash.com/photo-1611600326998-c33f785450e0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fEJyaXRpc2glMjBTaG9ydGhhaXJ8ZW58MHx8MHx8fDA%3D",
+        "brand": "British Shorthair",
+        "title": "Paper Bag Cat",
+        "color": "grey",
+        "discountedPrice":33000,
+        "price": 35000,
+        "discountPersent": 13,
+        "size": [
+            {
+              "name": "Age 1 Month",
+              "quantity": 20
+            }
+          ],
+          "quantity": 100,
+          "topLavelCategory": "cats",
+          "secondLavelCategory": "breeds",
+          "thirdLavelCategory": "shorthair",
+          "description":"The British Shorthair is the pedigreed version of the traditional British domestic cat, with a distinctively stocky body, thick coat, and broad face."
+    },
+ 
+        {
+            "imageUrl": "https://images.unsplash.com/photo-1616197006561-97078ff7877d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8QnJpdGlzaCUyMFNob3J0aGFpcnxlbnwwfHwwfHx8MA%3D%3D",
+            "brand": "British Shorthair",
+            "title": " Shorthair Cat",
+            "color": "black",
+            "discountedPrice":25000,
+            "price": 30000,
+            "discountPersent": 13,
+            "size": [
+                {
+                "name": "Age 1 Month",
+                "quantity": 20
+                }
+            ],
+            "quantity": 100,
+            "topLavelCategory": "cats",
+            "secondLavelCategory": "breeds",
+            "thirdLavelCategory": "shorthair",
+            "description":"The British Shorthair is the pedigreed version of the traditional British domestic cat, with a distinctively stocky body, thick coat, and broad face."
+        }
+
+
+
+]

@@ -1,0 +1,285 @@
+[
+    
+    {  
+      "imageUrl": "https://www.petoly.in/cdn/shop/products/oilpetmrspdg0003_1_1024x1024.jpg?v=1635943140",
+      "brand": "Pedigree",
+      "title": "Pedigree Adult, Chicken and Vegetables Dry Dog Food, 5.5 kg",
+      "color": " ",
+      "discountedPrice": 1223 ,
+      "price": 1390,
+      "discountPersent": 12,
+      "size": [
+          {
+            "name": "1",
+            "quantity": 5
+          },
+          {
+            "name": "3",
+            "quantity": 3
+          },
+          {
+            "name": "6",
+            "quantity": 4
+          }
+        ],
+        "quantity": 12,
+        "topLavelCategory": "Dogs",
+        "secondLavelCategory": "dog_food",
+        "thirdLavelCategory": "dry_food",
+        "description":"Pedigree is a complete and balanced food for dogs. Prepared with high-quality ingredients, Pedigree is rich in proteins and nutrition. Pedigree pet food provides dogs with the 5 Signs of Good Health - healthy skin and coat, strong bones and teeth, digestive health, strong muscles and strong immune system."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/717WiuxL2XL._SY879_.jpg",
+    "brand": "Purepet",
+    "title": "Purepet Chicken & Vegetable Adult Dry Dog Food, 20kg",
+    "color": " ",
+    "discountedPrice": 2136.5 ,
+    "price":2374,
+    "discountPersent": 10,
+    "size": [
+        {
+          "name": "1",
+          "quantity": 10
+        },
+        {
+          "name": "3",
+          "quantity": 7
+        },
+        {
+          "name": "6",
+          "quantity": 4
+        }
+      ],
+      "quantity": 21,
+      "topLavelCategory": "Dogs",
+      "secondLavelCategory": "dog_food",
+      "thirdLavelCategory": "dry_food",
+      "description":"Purpet is a daily Adult Dog nutrition dry food that contains all the essential Vitamins, minerals and antioxidants that boosts your pet's health and vitality,It is easily digestible and supports a healthy immune system"
+  },
+  {
+    "imageUrl": "https://supertails.com/cdn/shop/files/Frame12312_af95a624-da03-4380-8141-877fbab50770.png?v=1696602044",
+    "brand": "Royal Canin",
+    "title": "Royal Canin Giant Breed Dog and Puppies Starter Dry Food",
+    "color": " ",
+    "discountedPrice": 10178 ,
+    "price":11950,
+    "discountPersent": 15,
+    "size": [
+        {
+          "name": "1",
+          "quantity": 8
+        },
+        {
+          "name": "3",
+          "quantity": 10
+        },
+        {
+          "name": "6",
+          "quantity": 4
+        }
+      ],
+      "quantity": 22,
+      "topLavelCategory": "Dogs",
+      "secondLavelCategory": "dog_food",
+      "thirdLavelCategory": "dry_food",
+      "description":"Containing a high protein, energy, and mineral content, this food caters to the dietary requirements of both the mother and her pups. The ‘Start Complex' feature is the result of committed scientific research by ROYAL CANIN®.."
+  },
+  {
+    "imageUrl": "https://supertails.com/cdn/shop/files/Frame106722987.png?v=1703158311",
+    "brand": "Royal Canin",
+    "title": "Royal Canin German Shepherd Puppy Dog Dry Food",
+    "color": " ",
+    "discountedPrice": 5275,
+    "price":6200,
+    "discountPersent": 15,
+    "size": [
+        {
+          "name": "1",
+          "quantity": 5
+        },
+        {
+          "name": "3",
+          "quantity": 9
+        },
+        {
+          "name": "6",
+          "quantity": 5
+        }
+      ],
+      "quantity": 19,
+      "topLavelCategory": "Dogs",
+      "secondLavelCategory": "dog_food",
+      "thirdLavelCategory": "dry_food",
+      "description":"Royal Canin German Shepherd  is tailor made to suit the unique nutritional needs of your German Shepherd."
+  },
+   {
+    "imageUrl": "https://supertails.com/cdn/shop/files/ADULT3KG_Bundle_2_32ea8d61-4beb-4d77-baa4-13066cb56fd0.png?v=1707906141",
+    "brand": "Henlo",
+    "title": "Henlo Baked Dry Food for Adult Dogs | 100% human grade ingredients",
+    "color": " ",
+    "discountedPrice": 9699 ,
+    "price":13250,
+    "discountPersent": 27,
+    "size": [
+        {
+          "name": "1",
+          "quantity": 25
+        },
+        {
+          "name": "3",
+          "quantity": 12
+        },
+        {
+          "name": "6",
+          "quantity": 8
+        }
+      ],
+      "quantity": 45,
+      "topLavelCategory": "Dogs",
+      "secondLavelCategory": "dog_food",
+      "thirdLavelCategory": "dry_food",
+      "description":"Our Oven Baked Dry Food is the result of over 14 months of passionate research, all geared towards ensuring that your dog enjoys the healthiest and happiest life possible.."
+  },
+  {
+    "imageUrl": "https://supertails.com/cdn/shop/products/Frame67-354222.png?v=1696452649",
+    "brand": "Kennel",
+    "title": "Kennel Kitchen Air Dried Chicken and Mackerel Dog Dry Food",
+    "color": " ",
+    "discountedPrice": 3822,
+    "price":4497,
+    "discountPersent": 15,
+    "size": [
+        {
+          "name": "1",
+          "quantity": 10
+        },
+        {
+          "name": "3",
+          "quantity": 8
+        },
+        {
+          "name": "6",
+          "quantity": 7
+        }
+      ],
+      "quantity": 25,
+      "topLavelCategory": "Dogs",
+      "secondLavelCategory": "dog_food",
+      "thirdLavelCategory": "dry_food",
+      "description":"Handmade fresh in our kitchen with premium meats and fish, each flavoursome recipe contains 15+ superfoods to enhance the gut health and immunity of your furry friends. Our raw, unprocessed recipes provide a fresh, nutrient-rich diet that supports your furry companions!."
+  },
+  {
+    "imageUrl": "https://supertails.com/cdn/shop/products/Frame10460-359468.png?v=1696499256",
+    "brand": "Farmin",
+    "title": "Farmina N&D Chicken & Pomegranate Ancestral Grain Selection Adult Medium Maxi Dog Dry Food",
+    "color": " ",
+    "discountedPrice": 9290 ,
+    "price":8361,
+    "discountPersent": 10,
+    "size": [
+        {
+          "name": "1",
+          "quantity": 15
+        },
+        {
+          "name": "3",
+          "quantity": 8
+        },
+        {
+          "name": "6",
+          "quantity": 7
+        }
+      ],
+      "quantity": 30,
+      "topLavelCategory": "Dogs",
+      "secondLavelCategory": "dog_food",
+      "thirdLavelCategory": "dry_food",
+      "description":"This food is a grain-free formula that contains ideal levels of EPA-DHA that helps in improving the skin and coat of these dogs.."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/717WiuxL2XL._SY879_.jpg",
+    "brand": "Drools",
+    "title": "Drools Focus Super Premium Adult Dry Dog Food",
+    "color": " ",
+    "discountedPrice": 4674 ,
+    "price":5500,
+    "discountPersent": 15,
+    "size": [
+        {
+          "name": "1",
+          "quantity": 15
+        },
+        {
+          "name": "3",
+          "quantity": 4
+        },
+        {
+          "name": "6",
+          "quantity": 6
+        }
+      ],
+      "quantity": 25,
+      "topLavelCategory": "Dogs",
+      "secondLavelCategory": "dog_food",
+      "thirdLavelCategory": "dry_food",
+      "description":"Drools Focus Super Premium Adult Dry Dog Food is an all Breed formula. It is a wholesome nutritional meal that ensures all the benefits, ranging from strong immunity to dental health."
+  },
+  {
+    "imageUrl": "https://supertails.com/cdn/shop/products/Group559_1.jpg?v=1696612705",
+    "brand": "SuperCoat",
+    "title": "SuperCoat Chicken Adult Small Breed Dog Dry Food",
+    "color": " ",
+    "discountedPrice": 996 ,
+    "price":996,
+    "discountPersent": 18,
+    "size": [
+        {
+          "name": "1",
+          "quantity": 17
+        },
+        {
+          "name": "3",
+          "quantity": 9
+        },
+        {
+          "name": "6",
+          "quantity": 7
+        }
+      ],
+      "quantity": 33,
+      "topLavelCategory": "Dogs",
+      "secondLavelCategory": "dog_food",
+      "thirdLavelCategory": "dry_food",
+      "description":"SUPERCOAT is developed by Nestlé Purina experts with 120 years of expertise in pet nutrition."
+  },
+  {
+    "imageUrl": "https://supertails.com/cdn/shop/products/Farmina_20_71aa1804-8ea5-45d5-a8d3-fc63b4a33c34-521063.png?v=1696499867",
+    "brand": "Farmina",
+    "title": "Farmina N&D Pumpkin Chicken & Pomegranate Grain Free Adult Maxi Medium Dog Dry Food",
+    "color": " ",
+    "discountedPrice": 8209,
+    "price":9890,
+    "discountPersent": 17,
+    "size": [
+        {
+          "name": "1",
+          "quantity": 18
+        },
+        {
+          "name": "3",
+          "quantity": 14
+        },
+        {
+          "name": "6",
+          "quantity": 5
+        }
+      ],
+      "quantity": 37,
+      "topLavelCategory": "Dogs",
+      "secondLavelCategory": "dog_food",
+      "thirdLavelCategory": "dry_food",
+      "description":"Specially made to avoid grains or cereals, 60% of the Farmina N&D Grain-Free Chicken & Pomegranate Adult Medium & Maxi Breed Dog Food consists of chicken. The remaining 40% is from nutritious veggies"
+  }
+  
+
+]

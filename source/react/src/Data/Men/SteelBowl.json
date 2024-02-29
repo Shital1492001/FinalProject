@@ -1,0 +1,285 @@
+[
+    
+  {  
+    "imageUrl": "https://supertails.com/cdn/shop/products/Frame_25_390ddf5f-d4f2-4cb3-bb72-f6587985b17e-287874.png?v=1696413532",
+    "brand": "Basil",
+    "title": "Basil Solid Color Melamine Bowl for Dogs and Cats (Red)",
+    "color": "Red",
+    "discountedPrice": 160 ,
+    "price": 200,
+    "discountPersent": 20,
+    "size": [
+        {
+          "name": "1",
+          "quantity": 5
+        },
+        {
+          "name": "3",
+          "quantity": 3
+        },
+        {
+          "name": "6",
+          "quantity": 4
+        }
+      ],
+      "quantity": 12,
+      "topLavelCategory": "Dogs",
+      "secondLavelCategory": "Accessories",
+      "thirdLavelCategory": "steelbowl",
+      "description":"By selecting BASIL bowls they are assured to get all the necessary requirements in one product as our products are free from all doubts and complete on purity."
+},
+{
+  "imageUrl": "https://supertails.com/cdn/shop/products/Frame_72_737af30d-28d8-454c-a772-2609b9d6fd87-671159.png?v=1696531375",
+  "brand": "Harry",
+  "title": "Harry Potter Welcome To Hogwarts Bowl for Dogs",
+  "color": "Blue",
+  "discountedPrice": 879,
+  "price": 999,
+  "discountPersent": 12,
+  "size": [
+      {
+        "name": "1",
+        "quantity": 10
+      },
+      {
+        "name": "3",
+        "quantity": 10
+      },
+      {
+        "name": "6",
+        "quantity": 2
+      }
+    ],
+    "quantity": 22,
+    "topLavelCategory": "Dogs",
+    "secondLavelCategory": "Accessories",
+    "thirdLavelCategory": "steelbowl",
+    "description":"Is your pet ready for Hogwarts? The train is at 9 ¾ and the suitcase is ready to go. Get the bowl for the journey to keep your pet hydrated and ready to explore the magical world."
+},
+{
+  "imageUrl": "https://www.petoly.in/cdn/shop/products/OILPETPST027_1024x1024.webp?v=1667888465",
+  "brand": "Petspot",
+  "title": "Petspot Adjustable U Shape Stand Dog Bowl, 5 qt",
+  "color": "Grey",
+  "discountedPrice": 1092,
+  "price": 1365,
+  "discountPersent": 20,
+  "size": [
+      {
+        "name": "1",
+        "quantity": 10
+      },
+      {
+        "name": "3",
+        "quantity": 2
+      },
+      {
+        "name": "6",
+        "quantity": 2
+      }
+    ],
+    "quantity": 14,
+    "topLavelCategory": "Dogs",
+    "secondLavelCategory": "Accessories",
+    "thirdLavelCategory": "steelbowl",
+    "description":"with 2 stainless steel bowls stand made of metal, hammer tone finished bowls adjustable in height with bowl."
+},
+
+{
+  "imageUrl": "https://supertails.com/cdn/shop/products/Frame1-2022-06-15T105845.487_1.png?v=1696617162",
+  "brand": "Trixie",
+  "title": "Trixie Bar Stainless Steel Bowl for Dogs",
+  "color": "Grey",
+  "discountedPrice": 3305,
+  "price": 3950,
+  "discountPersent": 16,
+  "size": [
+      {
+        "name": "1",
+        "quantity": 10
+      },
+      {
+        "name": "3",
+        "quantity": 10
+      },
+      {
+        "name": "6",
+        "quantity": 4
+      }
+    ],
+    "quantity": 24,
+    "topLavelCategory": "Dogs",
+    "secondLavelCategory": "Accessories",
+    "thirdLavelCategory": "steelbowl",
+    "description":"Trixie has designed this special dog bar to make feeding more convenient for you and your pets. with 2 stainless steel bowls stand made of metal with bowl."
+},
+{
+  "imageUrl": "https://supertails.com/cdn/shop/products/image866-691402.png?v=1696546339",
+  "brand": "Kibbo",
+  "title": "Kibbo Anti Skid Stainless Steel Printed Bowl for Dogs and Cats (Green)",
+  "color": "Green",
+  "discountedPrice": 299,
+  "price": 399,
+  "discountPersent": 25,
+  "size": [
+      {
+        "name": "1",
+        "quantity": 5
+      },
+      {
+        "name": "3",
+        "quantity": 2
+      },
+      {
+        "name": "6",
+        "quantity": 2
+      }
+    ],
+    "quantity": 9,
+    "topLavelCategory": "Dogs",
+    "secondLavelCategory": "Accessories",
+    "thirdLavelCategory": "steelbowl",
+    "description":"Made with food-grade high gauge stainless steel, this bowl is resistant to rust, corrosion, and scratches, ensuring that it can withstand the wear and tear of daily use."
+},
+{
+  "imageUrl": "https://supertails.com/cdn/shop/products/Frame-2023-07-11T110657.937-793589.png?v=1707204935",
+  "brand": "Basil",
+  "title": "Basil Solid Color Melamine Bowl for Dogs",
+  "color": "Black",
+  "discountedPrice": 170,
+  "price": 200,
+  "discountPersent": 15,
+  "size": [
+      {
+        "name": "1",
+        "quantity": 5
+      },
+      {
+        "name": "3",
+        "quantity": 5
+      },
+      {
+        "name": "6",
+        "quantity": 10
+      }
+    ],
+    "quantity": 20,
+    "topLavelCategory": "Dogs",
+    "secondLavelCategory": "Accessories",
+    "thirdLavelCategory": "steelbowl",
+    "description":"Basil bowls are high on quality and assure you to be made using best ingredients with pure intention of Pet Welfare. "
+},
+{
+  "imageUrl": "https://supertails.com/cdn/shop/products/Frame_28_3de1a855-57f8-4c4b-b5e5-5d29b79fe347-890259.png?v=1696474964",
+  "brand": "Basil",
+  "title": "Basil Wooden Print Melamine Bowl for Dogs",
+  "color": "Brown",
+  "discountedPrice": 220,
+  "price": 250,
+  "discountPersent": 12,
+  "size": [
+      {
+        "name": "1",
+        "quantity": 5
+      },
+      {
+        "name": "3",
+        "quantity": 5
+      },
+      {
+        "name": "6",
+        "quantity": 6
+      }
+    ],
+    "quantity": 16,
+    "topLavelCategory": "Dogs",
+    "secondLavelCategory": "Accessories",
+    "thirdLavelCategory": "steelbowl",
+    "description":"By selecting BASIL bowls they are assured to get all the necessary requirements in one product as our products are free from all doubts and complete on purity."
+},
+{
+  "imageUrl": "https://www.petoly.in/cdn/shop/products/OILPETCNC039_1_1024x1024.jpg?v=1646049986",
+  "brand": "Canine Crew",
+  "title": "Canine Crew Pet Coloured Bowl, No.1",
+  "color": "Orange",
+  "discountedPrice": 144,
+  "price": 180,
+  "discountPersent": 20,
+  "size": [
+      {
+        "name": "1",
+        "quantity": 3
+      },
+      {
+        "name": "3",
+        "quantity": 3
+      },
+      {
+        "name": "6",
+        "quantity": 4
+      }
+    ],
+    "quantity": 10,
+    "topLavelCategory": "Dogs",
+    "secondLavelCategory": "Accessories",
+    "thirdLavelCategory": "steelbowl",
+    "description":"When dogs eat, an ordinary bowl may slide across the floor, as food and water spills out.The bowls are lightweight and easy to clean."
+},
+{
+  "imageUrl": "https://www.petoly.in/cdn/shop/products/OILPETABKTXE0507_1_1024x1024.jpg?v=1635836832",
+  "brand": "Trixie",
+  "title": "Trixie Ceramic Bowl, Turquoise,12 cm 300 ml",
+  "color": "Blue",
+  "discountedPrice": 319,
+  "price": 425,
+  "discountPersent": 25,
+  "size": [
+      {
+        "name": "1",
+        "quantity": 2
+      },
+      {
+        "name": "3",
+        "quantity": 5
+      },
+      {
+        "name": "6",
+        "quantity": 4
+      }
+    ],
+    "quantity": 11,
+    "topLavelCategory": "Dogs",
+    "secondLavelCategory": "Accessories",
+    "thirdLavelCategory": "steelbowl",
+    "description":"Bowls and place mats not only serve as the place to eat for your dog. They can also add a stylish element to your home."
+},
+{  
+  "imageUrl": "https://www.petoly.in/cdn/shop/products/OILPETABKTXE0544_1_1024x1024.jpg?v=1635846235",
+  "brand": "Trixie",
+  "title": "Trixie Lick'n'Snack Slow Feeder Platter for Dogs, 20 × 20 cm",
+  "color": "Yellow",
+  "discountedPrice": 671,
+  "price": 895,
+  "discountPersent": 25,
+  "size": [
+      {
+        "name": "1",
+        "quantity": 5
+      },
+      {
+        "name": "3",
+        "quantity": 4
+      },
+      {
+        "name": "6",
+        "quantity": 3
+      }
+    ],
+    "quantity": 12,
+    "topLavelCategory": "Dogs",
+    "secondLavelCategory": "Accessories",
+    "thirdLavelCategory": "steelbowl",
+    "description":"Dog Activity Snack Toys and Strategy Games from TRIXIE offer new mental challenges for your dog."
+}
+
+]

@@ -1,0 +1,285 @@
+[
+    
+    {  
+      "imageUrl": "https://supertails.com/cdn/shop/files/Frame12314_89a8f769-48d6-4acd-8f9c-e3e10f1c8577.png?v=1696602504",
+      "brand": "Royal Canin",
+      "title": "Royal Canin Maxi Puppy Dog Dry Food",
+      "color": " ",
+      "discountedPrice": 6809 ,
+      "price": 8000,
+      "discountPersent": 15,
+      "size": [
+          {
+            "name": "1",
+            "quantity": 5
+          },
+          {
+            "name": "3",
+            "quantity": 3
+          },
+          {
+            "name": "6",
+            "quantity": 4
+          }
+        ],
+        "quantity": 12,
+        "topLavelCategory": "Dogs",
+        "secondLavelCategory": "dog_food",
+        "thirdLavelCategory": "puppy_food",
+        "description":" Maxi Puppy is meticulously crafted to meet the unique nutritional needs of large breed puppies aged 2 to 15 months, anticipating an adult weight between 26kg-44kg. "
+  },
+  {
+    "imageUrl": "https://supertails.com/cdn/shop/files/PUPPY3KG_Bundle_2.png?v=1707906273",
+    "brand": "Henlo",
+    "title": "Henlo Baked Dry Food for Puppies | 100% human grade ingredients",
+    "color": " ",
+    "discountedPrice": 7800 ,
+    "price":11200,
+    "discountPersent": 14,
+    "size": [
+        {
+          "name": "1",
+          "quantity": 10
+        },
+        {
+          "name": "3",
+          "quantity": 7
+        },
+        {
+          "name": "6",
+          "quantity": 4
+        }
+      ],
+      "quantity": 21,
+      "topLavelCategory": "Dogs",
+      "secondLavelCategory": "dog_food",
+      "thirdLavelCategory": "puppy_food",
+      "description":"Henlo Baked Dry Food for Puppies! Welcome to the world of Henlo, where each bite is a celebration of well-being for your beloved pup! 🐾 Our Baked Dry Food is a promise of a long and healthy life for your furry friend."
+  },
+  {
+    "imageUrl": "https://supertails.com/cdn/shop/files/1_6_cd48c5f8-8571-4f3b-b8bf-02d4cd2ad5e9.jpg?v=1707136727",
+    "brand": "Pedigree",
+    "title": "Pedigree PRO Expert Nutrition for Large Breed Puppy(3 to 18 Months) Dry Food",
+    "color": " ",
+    "discountedPrice": 6086,
+    "price":7160,
+    "discountPersent": 15,
+    "size": [
+        {
+          "name": "1",
+          "quantity": 8
+        },
+        {
+          "name": "3",
+          "quantity": 10
+        },
+        {
+          "name": "6",
+          "quantity": 4
+        }
+      ],
+      "quantity": 22,
+      "topLavelCategory": "Dogs",
+      "secondLavelCategory": "dog_food",
+      "thirdLavelCategory": "puppy_food",
+      "description":" Pedigree caters to the unique nutritional needs of different dogs based on their breed and age."
+  },
+  {
+    "imageUrl": "https://supertails.com/cdn/shop/files/DroolsChickenandEggPuppyDogFood_15kg_3kgExtraFreeInside.png?v=1706080862",
+    "brand": "Drools",
+    "title": "Drools Chicken and Egg Puppy Dog Dry Food",
+    "color": " ",
+    "discountedPrice": 2720,
+    "price":3200,
+    "discountPersent": 15,
+    "size": [
+        {
+          "name": "1",
+          "quantity": 5
+        },
+        {
+          "name": "3",
+          "quantity": 9
+        },
+        {
+          "name": "6",
+          "quantity": 5
+        }
+      ],
+      "quantity": 19,
+      "topLavelCategory": "Dogs",
+      "secondLavelCategory": "dog_food",
+      "thirdLavelCategory": "puppy_food",
+      "description":"Drools Chicken and Egg Puppy Dry Dog Food provides a comprehensive and balanced nutritional diet for your pet. Our key ingredient is Real Chicken, supporting the growth and development of your puppy."
+  },
+   {
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0565/8021/0861/products/Frame1-2022-09-19T113401.866-812480.png?v=1696562436",
+    "brand": "Orijen Six",
+    "title": "Orijen Six Fish Dog Dry Food (All Breeds & Ages)",
+    "color": " ",
+    "discountedPrice": 2856,
+    "price":3360,
+    "discountPersent": 15,
+    "size": [
+        {
+          "name": "1",
+          "quantity": 25
+        },
+        {
+          "name": "3",
+          "quantity": 12
+        },
+        {
+          "name": "6",
+          "quantity": 8
+        }
+      ],
+      "quantity": 45,
+      "topLavelCategory": "Dogs",
+      "secondLavelCategory": "dog_food",
+      "thirdLavelCategory": "puppy_food",
+      "description":"A diet rich in protein and balanced in nutrients helps your dog stay healthy and happy. Omega fatty acids can contribute to skin and coat health, and foods that are rich in fish ingredients offer your dog complete nutrition with a mouth-watering taste."
+  },
+  {
+    "imageUrl": "https://supertails.com/cdn/shop/files/Frame12316_fd7266e9-eda4-4607-b244-223e563f8c40.png?v=1696603253",
+    "brand": "Royal Canin",
+    "title": "Royal Canin Medium Puppy Dog Dry Food",
+    "color": " ",
+    "discountedPrice": 9789,
+    "price":11500,
+    "discountPersent": 30,
+    "size": [
+        {
+          "name": "1",
+          "quantity": 10
+        },
+        {
+          "name": "3",
+          "quantity": 8
+        },
+        {
+          "name": "6",
+          "quantity": 7
+        }
+      ],
+      "quantity": 25,
+      "topLavelCategory": "Dogs",
+      "secondLavelCategory": "dog_food",
+      "thirdLavelCategory": "puppy_food",
+      "description":"Growth is an essential stage in your puppy's life, it's the time of big changes and new discoveries. Because your puppy's immune system is still developing gradually, a specially tailored diet will help your puppy get all the nutrients it needs to grow healthy and strong."
+  },
+  {
+    "imageUrl": "https://supertails.com/cdn/shop/products/Supertails_2.jpg?v=1696612055",
+    "brand": "SmartHeart",
+    "title": "SmartHeart Chicken Power Pack Puppy Dry Food",
+    "color": " ",
+    "discountedPrice": 5565,
+    "price":6050,
+    "discountPersent": 8,
+    "size": [
+        {
+          "name": "1",
+          "quantity": 15
+        },
+        {
+          "name": "3",
+          "quantity": 8
+        },
+        {
+          "name": "6",
+          "quantity": 7
+        }
+      ],
+      "quantity": 30,
+      "topLavelCategory": "Dogs",
+      "secondLavelCategory": "dog_food",
+      "thirdLavelCategory": "puppy_food",
+      "description":"Full of FRESH CHICKEN, this GRAIN- FREE recipe is a COMPLETE & BALANCED meal. Along with Fresh Chicken, it has Chicken Liver, Chickpeas, Sweet Potato, Carrots, Broccoli, Kale, Beetroot, Pear, Basil, Curcumin, Flaxseeds and Stock all made in Olive Oil.."
+  },
+  {
+    "imageUrl": "https://supertails.com/cdn/shop/products/1_869x869_02267966-6505-4f56-82a9-08ccad799609.png?v=1696604127",
+    "brand": "Royal Canin",
+    "title": "Royal Canin Shih Tzu Puppy Dog Dry Food",
+    "color": " ",
+    "discountedPrice": 3249 ,
+    "price":3820,
+    "discountPersent": 12,
+    "size": [
+        {
+          "name": "1",
+          "quantity": 15
+        },
+        {
+          "name": "3",
+          "quantity": 4
+        },
+        {
+          "name": "6",
+          "quantity": 6
+        }
+      ],
+      "quantity": 25,
+      "topLavelCategory": "Dogs",
+      "secondLavelCategory": "dog_food",
+      "thirdLavelCategory": "puppy_food",
+      "description":"This premium dry dog food is formulated with an exclusive kibble shape, designed to make it easier for your puppy to grasp and chew their food."
+  },
+  {
+    "imageUrl": "https://supertails.com/cdn/shop/products/Frame10569_8-773894.png?v=1696470812",
+    "brand": "Bark Out Loud",
+    "title": "Bark Out Loud Immunity Multi Vitamin Chew Stix for Dogs and Cats",
+    "color": " ",
+    "discountedPrice": 675,
+    "price":750,
+    "discountPersent": 10,
+    "size": [
+        {
+          "name": "1",
+          "quantity": 17
+        },
+        {
+          "name": "3",
+          "quantity": 9
+        },
+        {
+          "name": "6",
+          "quantity": 7
+        }
+      ],
+      "quantity": 33,
+      "topLavelCategory": "Dogs",
+      "secondLavelCategory": "dog_food",
+      "thirdLavelCategory": "puppy_food",
+      "description":"These healthy treats are formulated using hand-picked, high-quality and nutritious ingredients that conform to global standards."
+  },
+  {
+    "imageUrl": "https://supertails.com/cdn/shop/files/PurepetChicken_VegPuppyDogFood_10kg.png?v=1699441003",
+    "brand": "Purepet",
+    "title": "Purepet Chicken & Vegetable Puppy Dry Food",
+    "color": " ",
+    "discountedPrice": 1728,
+    "price":1920,
+    "discountPersent": 17,
+    "size": [
+        {
+          "name": "1",
+          "quantity": 18
+        },
+        {
+          "name": "3",
+          "quantity": 14
+        },
+        {
+          "name": "6",
+          "quantity": 5
+        }
+      ],
+      "quantity": 37,
+      "topLavelCategory": "Dogs",
+      "secondLavelCategory": "dog_food",
+      "thirdLavelCategory": "puppy_food",
+      "description":"Approved by veterinarians, Purepet is a high-quality food suitable for all breeds, promoting brain development and a robust immune system."
+  }
+  
+
+]

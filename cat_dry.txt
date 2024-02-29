@@ -1,0 +1,178 @@
+ [
+        {
+            "imageUrl": "https://headsupfortails.com/cdn/shop/products/LB_Cat_Kibble_Lobster_1kg_2_2lbs.jpg?v=1681735763",
+            "brand": "Loveabowl",
+            "title": " Loveabowl cat dry food",
+            "color": " ",
+            "discountedPrice":1199,
+            "price": 1500,
+            "discountPersent": 16,
+            "size": [
+                {
+             
+                }
+            ],
+            "quantity": 100,
+            "topLavelCategory": "cats",
+            "secondLavelCategory": "accessories",
+            "thirdLavelCategory": "dry",
+            "description":"Formulated after years of research to promote your cat's optimal health and digestive function, Loveabowl's Herring, Salmon, and Atlantic Lobster cat food is an essential addition to your feline's diet."
+        },
+ 
+        {
+            "imageUrl": "https://headsupfortails.com/cdn/shop/products/PersianAdult-1.png?v=1674805957",
+            "brand": "Royal Canin",
+            "title": "Persian Adult Dry Cat Food",
+            "color": " ",
+            "discountedPrice":493,
+            "price": 580,
+            "discountPersent": 15,
+            "size": [
+                {
+             
+                }
+            ],
+            "quantity": 100,
+            "topLavelCategory": "cats",
+            "secondLavelCategory": "accessories",
+            "thirdLavelCategory": "dry",
+            "description":"The Persian cat has the longest and densest coat of all cat breeds. This means that it typically needs to consume more skin-health focused nutrients than other cat breeds."
+        },
+{
+            "imageUrl": "https://headsupfortails.com/cdn/shop/products/Adult1-2kg-Front.jpg?v=1668677916",
+            "brand": "Signature",
+            "title": "Signature Grain Zero Adult Dry Cat Food - All Breed Formula",
+            "color": " ",
+            "discountedPrice":206,
+            "price": 235,
+            "discountPersent": 12,
+            "size": [
+                {
+             
+                }
+            ],
+            "quantity": 100,
+            "topLavelCategory": "cats",
+            "secondLavelCategory": "accessories",
+            "thirdLavelCategory": "dry",
+            "description":"Formulated by veterinarians and nutritionists in the U.S.A, Signatures Grain Zero hypoallergenic Cat Food is complete nutrition is made for adult cats of all breeds."
+        },
+ 
+        {
+            "imageUrl": "https://headsupfortails.com/cdn/shop/files/FarminaMatissePremiumChicken_RiceDryCatFood.jpg?v=1683097226",
+            "brand": "Farmina Matisse ",
+            "title": "Farmina Matisse Premium Chicken & Rice Dry Cat Food",
+            "color": " ",
+            "discountedPrice":330,
+            "price": 375,
+            "discountPersent": 12,
+            "size": [
+                {
+             
+                }
+            ],
+            "quantity": 100,
+            "topLavelCategory": "cats",
+            "secondLavelCategory": "accessories",
+            "thirdLavelCategory": "dry",
+            "description":"Matisse is a premium and complete food for your feline. Matisse Premium Dry Cat Food is rich in taurine and highly digestible. It has a controlled pH level and features chicken as the key meat protein."
+        },
+ {
+            "imageUrl": "https://headsupfortails.com/cdn/shop/files/FarminaMatissePremiumChicken_RiceDryCatFood.jpg?v=1683097226",
+            "brand": "Arden Grange ",
+            "title": "Arden Grange Grain Free Fresh Chicken & Potato Dry Cat Food",
+            "color": " ",
+            "discountedPrice":2140,
+            "price": 2140,
+            "discountPersent": 0,
+            "size": [
+                {
+             
+                }
+            ],
+            "quantity": 100,
+            "topLavelCategory": "cats",
+            "secondLavelCategory": "accessories",
+            "thirdLavelCategory": "dry",
+            "description":"This cat food contains Krill which is an excellent source of amino acids, and the fibre content reduces fur-balls. Prebiotics aid digestion and taurine (an essential for cats) help keep the heart"
+        },
+{
+            "imageUrl": "https://headsupfortails.com/cdn/shop/files/Fit32-1_84333bc7-0571-4c30-b9a6-70d5d90bec17.png?v=1683194941",
+            "brand": "Royal Canin",
+            "title": "Royal Canin Fit 32 Adult Dry Cat Food",
+            "color": " ",
+            "discountedPrice":340,
+            "price": 400,
+            "discountPersent": 15,
+            "size": [
+                {
+             
+                }
+            ],
+            "quantity": 100,
+            "topLavelCategory": "cats",
+            "secondLavelCategory": "accessories",
+            "thirdLavelCategory": "dry",
+            "description":"This unique formula helps stimulate the movement and removal of ingested hair, reducing the occurrence of hairballs. It is also balanced to maintain the ideal weight and proper urinary health of your cat."
+        },
+
+
+  {
+            "imageUrl": "https://headsupfortails.com/cdn/shop/files/3182550930888_01.jpg?v=1694146046",
+            "brand": "Royal Canin",
+            "title": "Royal Canin Mother And Babycat Dry Cat Food",
+            "color": " ",
+            "discountedPrice":450,
+            "price": 530,
+            "discountPersent": 15,
+            "size": [
+                {
+             
+                }
+            ],
+            "quantity": 100,
+            "topLavelCategory": "cats",
+            "secondLavelCategory": "accessories",
+            "thirdLavelCategory": "dry",
+            "description":"If your cat is pregnant or has given birth recently, it's important that both she and her kittens have the correct nutritional support to ensure continued health for the mother, and the best start possible for the kittens. "
+        },
+ {
+            "imageUrl": "https://headsupfortails.com/cdn/shop/files/FarminaN_DChicken_PomegranateGrainFreeAdultDryCatFood.jpg?v=1683097870",
+            "brand": "Farmina N&D",
+            "title": "Farmina N&D Chicken & Pomegranate Grain Free Adult Dry Cat Food",
+            "color": " ",
+            "discountedPrice":450,
+            "price": 530,
+            "discountPersent": 15,
+            "size": [
+                {
+             
+                }
+            ],
+            "quantity": 100,
+            "topLavelCategory": "cats",
+            "secondLavelCategory": "accessories",
+            "thirdLavelCategory": "dry",
+            "description":"Made especially for felines, the Farmina N & D Grain Free Adult Cat Food Chicken and Pomegranate is made with easily digested chicken protein. 98% of the protein is of animal origin."
+        },
+  {
+            "imageUrl": "https://headsupfortails.com/cdn/shop/files/FarminaN_DHerring_OrangeGrainFreeOceanDryCatFood.jpg?v=1683100000",
+            "brand": "Farmina N&D",
+            "title": "Farmina N&D Herring & Orange Grain Free Ocean Dry Cat Food",
+            "color": " ",
+            "discountedPrice":699,
+            "price": 795,
+            "discountPersent": 12,
+            "size": [
+                {
+             
+                }
+            ],
+            "quantity": 100,
+            "topLavelCategory": "cats",
+            "secondLavelCategory": "accessories",
+            "thirdLavelCategory": "dry",
+            "description":"Farmina N&D grain free ocean herring and orange is a complete food for Adult Cat. Farmina food is made with the perfect correct amount of vitamins, protein, fats, and advanced minerals."
+        }
+
+]

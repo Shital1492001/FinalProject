@@ -1,0 +1,70 @@
+ [
+        {
+            "imageUrl": "https://images.unsplash.com/photo-1518843025960-d60217f226f5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGJlbmdhbCUyMGNhdHxlbnwwfHwwfHx8MA%3D%3D",
+            "brand": "Bengal",
+            "title": " Bengal Cat",
+            "color": "Brown",
+            "discountedPrice":30000,
+            "price": 35000,
+            "discountPersent": 13,
+            "size": [
+                {
+                "name": "Age 1 Month",
+                "quantity": 20
+                }
+            ],
+            "quantity": 100,
+            "topLavelCategory": "cats",
+            "secondLavelCategory": "breeds",
+            "thirdLavelCategory": "bengal",
+            "description":"The Bengal cat is a breed of hybrid cat created from crossing of a Asian leopard cat, with domestic cats, especially the spotted Egyptian Mau."
+        },
+ 
+        {
+            "imageUrl": "https://images.unsplash.com/photo-1625431091652-7efaa1a82c5e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGJlbmdhbCUyMGNhdHxlbnwwfHwwfHx8MA%3D%3D",
+            "brand": "Bengal",
+            "title": " Bengal Cat",
+            "color": "Brown",
+            "discountedPrice":25000,
+            "price": 30000,
+            "discountPersent": 13,
+            "size": [
+                {
+                "name": "Age 1 Month",
+                "quantity": 20
+                }
+            ],
+            "quantity": 100,
+            "topLavelCategory": "cats",
+            "secondLavelCategory": "breeds",
+            "thirdLavelCategory": "bengal",
+            "description":"The Bengal cat is a breed of hybrid cat created from crossing of a Asian leopard cat, with domestic cats, especially the spotted Egyptian Mau."
+        },
+ 
+        {
+            "imageUrl": "https://images.unsplash.com/photo-1547045662-e5a75e7238c2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fGJlbmdhbCUyMGNhdHxlbnwwfHwwfHx8MA%3D%3D",
+            "brand": "Bengal",
+            "title": " Bengal Cat",
+            "color": "Grey",
+            "discountedPrice":16000,
+            "price": 20000,
+            "discountPersent": 22,
+            "size": [
+                {
+                "name": "Age 1 Month",
+                "quantity": 20
+                }
+            ],
+            "quantity": 100,
+            "topLavelCategory": "cats",
+            "secondLavelCategory": "breeds",
+            "thirdLavelCategory": "bengal",
+            "description":"The Bengal cat is a breed of hybrid cat created from crossing of a Asian leopard cat, with domestic cats, especially the spotted Egyptian Mau."
+        },
+
+
+
+
+
+
+]

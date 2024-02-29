@@ -1,0 +1,47 @@
+ [
+    {
+        "imageUrl": "https://images.unsplash.com/photo-1611668070024-4b53a3908386?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8U2lhbWVzZSUyMGNhdHxlbnwwfHwwfHx8MA%3D%3D",
+        "brand": "Siamese ",
+        "title": "Siamese cat",
+        "color": "Gray",
+        "discountedPrice":30000,
+        "price": 35000,
+        "discountPersent": 15,
+        "size": [
+            {
+              "name": "Age 1 Month",
+              "quantity": 20
+            }
+          ],
+          "quantity": 100,
+          "topLavelCategory": "cats",
+          "secondLavelCategory": "breeds",
+          "thirdLavelCategory": "siamese",
+          "description":"The Siamese cat is one of the first distinctly recognised breeds of Asian cat."
+    },
+ 
+    {
+        "imageUrl": "https://images.unsplash.com/photo-1613064504039-bb89104af499?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fFNpYW1lc2UlMjBjYXR8ZW58MHx8MHx8fDA%3D",
+        "brand": "Siamese ",
+        "title": "Siamese cat",
+        "color": "Gray",
+        "discountedPrice":16000,
+        "price": 20000,
+        "discountPersent": 15,
+        "size": [
+            {
+              "name": "Age 1 Month",
+              "quantity": 20
+            }
+          ],
+          "quantity": 100,
+          "topLavelCategory": "cats",
+          "secondLavelCategory": "breeds",
+          "thirdLavelCategory": "siamese",
+          "description":"The Siamese cat is one of the first distinctly recognised breeds of Asian cat."
+    },
+
+
+
+
+]
